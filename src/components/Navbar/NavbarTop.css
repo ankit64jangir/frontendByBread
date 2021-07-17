@@ -1,0 +1,6 @@
+.crumb {
+    background: -webkit-radial-gradient(#E17C1C, #F5C731, #EC6353);
+    background-clip: initial;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

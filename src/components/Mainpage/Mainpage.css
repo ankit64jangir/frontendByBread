@@ -1,0 +1,60 @@
+.areamain {
+    margin: 0 5px 20px 5px;
+}
+
+.textmain {
+    color: #2256BA;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 55px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    padding: 0 40px 0 40px;
+    word-wrap: break-word;
+}
+
+
+.subtextmain {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 37px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #585858;
+    margin-top: 30px;
+}
+
+.btnTopmargin{
+    margin-top: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .textmain {
+        color: #2256BA;
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.04em;
+        padding: 0 40px 0 40px;
+        word-wrap: break-word;
+    }
+
+    .subtextmain {
+        font-family: Helvetica;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.04em;
+        color: #585858;
+        margin-top: 30px;
+    }
+  }
